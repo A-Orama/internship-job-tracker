@@ -1,4 +1,4 @@
-# Internship Application Tracker (Google Sheets + Power BI)
+# Internship/Job Application Tracker (Google Sheets + Power BI)
 
 This project is a personal internship/job application tracker built using both **Google Sheets** and **Power BI**.  
 It was created to explore data analysis, visualization, and workflow optimization using free and industry-standard tools.
@@ -7,3 +7,11 @@ By combining spreadsheet logic with BI dashboards, the goal is to demonstrate:
 - Practical data tracking
 - Visual storytelling
 - A commitment to learning tools relevant to real-world business needs
+
+## 🔗 Live Data Source (Google Sheets)
+
+This project is powered by a live-updating Google Sheets dataset, connected to Power BI via a published CSV link.
+
+📄 [View raw CSV](https://docs.google.com/spreadsheets/d/e/2PACX-.../pub?output=csv)
+
+
