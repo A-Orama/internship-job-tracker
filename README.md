@@ -18,7 +18,7 @@ This project is powered by a live-updating Google Sheets dataset, connected to P
 
 You can explore the live Power BI dashboard here:
 
-👉 [View the interactive Job Application Outcomes Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODUzMzRkNmItMTgxNC00MTExLWE1NWMtMDE3Zj)
+👉 [View the interactive Job Application Outcomes Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODUzMzRkNmItMTgxNC00MTExLWE1NWMtMDE3ZjExMDhjOWUzIiwidCI6IjZhZmVhODVkLWMzMjMtNDI3MC1iNjlkLWE0ZmIzOTI3YzI1NCIsImMiOjl9&pageName=033396ae1565d07e9c62)
 
 
 
